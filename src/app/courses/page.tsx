@@ -1,8 +1,12 @@
-import React from 'react'
+import React from 'react';
+
+import CoursesList from '@/components/CoursesList';
 
 const page = () => {
   return (
-    <div>page</div>
+    <>
+      <CoursesList />
+    </>
   )
 }
 
