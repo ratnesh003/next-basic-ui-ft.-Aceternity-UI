@@ -247,7 +247,7 @@
           "description": "Become a master of classical guitar with this comprehensive course.",
           "price": 139.99,
           "instructor": "Isabelle Bell",
-          "isFeatured": false,
+          "isFeatured": true,
           "image": "/courses/classical-guitar.jpg"
       }
   ]

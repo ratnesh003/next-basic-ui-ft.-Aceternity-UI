@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react';
 
 import Image from "next/image";
@@ -5,7 +7,6 @@ import Link from 'next/link';
 
 import coursesData from "../data/music_courses.json";
 import { CardBody, CardContainer, CardItem } from './ui/3d-card';
-import { Badge } from './ui/badge';
 
 interface Courses {
     id: number,
@@ -30,9 +31,16 @@ const CoursesList = () => {
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border ">
                         <CardItem
                             translateZ="50"
-                            className="text-xl font-bold text-neutral-600 dark:text-white"
+                            className="w-full text-xl font-bold text-neutral-600 dark:text-white"
                         >
-                            {card.title} {card.isFeatured && (<Badge variant={"destructive"} children={"Featured"} className='bg-red-500 hover:bg-red-500/[0.9]'/>)}
+                            {card.title} {
+                                card.isFeatured && (
+                                    <div 
+                                    className='absolute left-[-34px] top-[-34px] h-8 w-8 z-10 rounded-full text-sm text-center content-center bg-red-500'>
+                                        ft.
+                                    </div>
+                                )
+                            }
                         </CardItem>
                         <CardItem
                             as="p"
