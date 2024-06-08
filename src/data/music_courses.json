@@ -1,0 +1,254 @@
+{
+  "courses": [
+      {
+          "id": 1,
+          "title": "Guitar Fundamentals",
+          "slug": "guitar-fundamentals",
+          "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+          "price": 99.99,
+          "instructor": "John Doe",
+          "isFeatured": true,
+          "image": "/courses/guitar.jpg"
+      },
+      {
+          "id": 2,
+          "title": "Piano for Beginners",
+          "slug": "piano-for-beginners",
+          "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+          "price": 109.99,
+          "instructor": "Jane Smith",
+          "isFeatured": false,
+          "image": "/courses/piano.jpg"
+      },
+      {
+          "id": 3,
+          "title": "Advanced Vocal Techniques",
+          "slug": "advanced-vocal-techniques",
+          "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+          "price": 119.99,
+          "instructor": "Emily Johnson",
+          "isFeatured": true,
+          "image": "/courses/vocalist.jpg"
+      },
+      {
+          "id": 4,
+          "title": "Drumming Mastery",
+          "slug": "drumming-mastery",
+          "description": "Master the drums with our comprehensive course covering all skill levels.",
+          "price": 129.99,
+          "instructor": "Mike Brown",
+          "isFeatured": false,
+          "image": "/courses/drumming.jpg"
+      },
+      {
+          "id": 5,
+          "title": "Jazz Improvisation",
+          "slug": "jazz-improvisation",
+          "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+          "price": 139.99,
+          "instructor": "Chris Davis",
+          "isFeatured": false,
+          "image": "/courses/jazz.jpg"
+      },
+      {
+          "id": 6,
+          "title": "Music Production Fundamentals",
+          "slug": "music-production-fundamentals",
+          "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+          "price": 149.99,
+          "instructor": "Alex Wilson",
+          "isFeatured": true,
+          "image": "/courses/music-prod.jpg"
+      },
+      {
+          "id": 7,
+          "title": "Songwriting Essentials",
+          "slug": "songwriting-essentials",
+          "description": "Learn the essentials of songwriting to express your musical creativity.",
+          "price": 159.99,
+          "instructor": "Samantha Miller",
+          "isFeatured": false,
+          "image": "/courses/song-writing.jpg"
+      },
+      {
+          "id": 8,
+          "title": "Electronic Music Production",
+          "slug": "electronic-music-production",
+          "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+          "price": 169.99,
+          "instructor": "Luke Harris",
+          "isFeatured": true,
+          "image": "/courses/music-prod.jpg"
+      },
+      {
+          "id": 9,
+          "title": "Classical Music History",
+          "slug": "classical-music-history",
+          "description": "Explore the rich history of classical music from its origins to the present day.",
+          "price": 179.99,
+          "instructor": "Grace Lee",
+          "isFeatured": false,
+          "image": "/courses/classical-music.jpg"
+      },
+      {
+          "id": 10,
+          "title": "Blues Guitar Techniques",
+          "slug": "blues-guitar-techniques",
+          "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+          "price": 189.99,
+          "instructor": "Ethan Moore",
+          "isFeatured": true,
+          "image": "/courses/blues.jpg"
+      },
+      {
+          "id": 11,
+          "title": "Rock Guitar Mastery",
+          "slug": "rock-guitar-mastery",
+          "description": "Master rock guitar techniques with our advanced course.",
+          "price": 99.99,
+          "instructor": "David Black",
+          "isFeatured": true,
+          "image": "/courses/rock-guitar.jpg"
+      },
+      {
+          "id": 12,
+          "title": "Classical Piano Techniques",
+          "slug": "classical-piano-techniques",
+          "description": "Learn the techniques of classical piano playing from an expert.",
+          "price": 109.99,
+          "instructor": "Anna White",
+          "isFeatured": false,
+          "image": "/courses/classical-piano.jpg"
+      },
+      {
+          "id": 13,
+          "title": "Pop Vocal Performance",
+          "slug": "pop-vocal-performance",
+          "description": "Improve your pop vocal performance with this focused course.",
+          "price": 119.99,
+          "instructor": "Sophie Brown",
+          "isFeatured": true,
+          "image": "/courses/pop-vocals.jpg"
+      },
+      {
+          "id": 14,
+          "title": "Percussion Essentials",
+          "slug": "percussion-essentials",
+          "description": "Learn the fundamentals of percussion with this comprehensive course.",
+          "price": 129.99,
+          "instructor": "Liam Green",
+          "isFeatured": false,
+          "image": "/courses/percussion.jpg"
+      },
+      {
+          "id": 15,
+          "title": "Jazz Piano Improvisation",
+          "slug": "jazz-piano-improvisation",
+          "description": "Master jazz piano improvisation with our advanced course.",
+          "price": 139.99,
+          "instructor": "Natalie Gray",
+          "isFeatured": false,
+          "image": "/courses/jazz-piano.jpg"
+      },
+      {
+          "id": 16,
+          "title": "Music Theory Basics",
+          "slug": "music-theory-basics",
+          "description": "Understand the basics of music theory with this beginner's course.",
+          "price": 149.99,
+          "instructor": "Oliver Black",
+          "isFeatured": true,
+          "image": "/courses/music-theory.jpg"
+      },
+      {
+          "id": 17,
+          "title": "Songwriting for Guitarists",
+          "slug": "songwriting-for-guitarists",
+          "description": "Learn songwriting techniques specifically for guitarists.",
+          "price": 159.99,
+          "instructor": "Rachel Adams",
+          "isFeatured": false,
+          "image": "/courses/songwriting-guitar.jpg"
+      },
+      {
+          "id": 18,
+          "title": "Electronic Dance Music Production",
+          "slug": "edm-production",
+          "description": "Produce high-energy EDM tracks with this comprehensive course.",
+          "price": 169.99,
+          "instructor": "Jake Roberts",
+          "isFeatured": true,
+          "image": "/courses/edm.jpg"
+      },
+      {
+          "id": 19,
+          "title": "Baroque Music History",
+          "slug": "baroque-music-history",
+          "description": "Explore the rich history and development of Baroque music.",
+          "price": 179.99,
+          "instructor": "Alice Clark",
+          "isFeatured": false,
+          "image": "/courses/baroque.jpg"
+      },
+      {
+          "id": 20,
+          "title": "Country Guitar Techniques",
+          "slug": "country-guitar-techniques",
+          "description": "Master the techniques of country guitar playing.",
+          "price": 189.99,
+          "instructor": "Paul Martin",
+          "isFeatured": true,
+          "image": "/courses/country-guitar.jpg"
+      },
+      {
+          "id": 21,
+          "title": "Fingerstyle Guitar",
+          "slug": "fingerstyle-guitar",
+          "description": "Learn the art of fingerstyle guitar with this detailed course.",
+          "price": 99.99,
+          "instructor": "George Thompson",
+          "isFeatured": true,
+          "image": "/courses/fingerstyle.jpg"
+      },
+      {
+          "id": 22,
+          "title": "Choral Singing Techniques",
+          "slug": "choral-singing-techniques",
+          "description": "Improve your choral singing with techniques for all voice types.",
+          "price": 109.99,
+          "instructor": "Victoria Scott",
+          "isFeatured": false,
+          "image": "/courses/choral.jpg"
+      },
+      {
+          "id": 23,
+          "title": "Music Composition",
+          "slug": "music-composition",
+          "description": "Learn the fundamentals of composing music in various styles.",
+          "price": 119.99,
+          "instructor": "Daniel Harris",
+          "isFeatured": true,
+          "image": "/courses/composition.jpg"
+      },
+      {
+          "id": 24,
+          "title": "Jazz Drumming Techniques",
+          "slug": "jazz-drumming-techniques",
+          "description": "Master jazz drumming with advanced techniques and exercises.",
+          "price": 129.99,
+          "instructor": "Henry Wood",
+          "isFeatured": false,
+          "image": "/courses/jazz-drumming.jpg"
+      },
+      {
+          "id": 25,
+          "title": "Classical Guitar Mastery",
+          "slug": "classical-guitar-mastery",
+          "description": "Become a master of classical guitar with this comprehensive course.",
+          "price": 139.99,
+          "instructor": "Isabelle Bell",
+          "isFeatured": false,
+          "image": "/courses/classical-guitar.jpg"
+      }
+  ]
+}
